@@ -1,0 +1,7 @@
+C:\Users\mmendenh\Documents\Projects\installFonts\installFonts\bin\Release\installFonts.exe.config
+C:\Users\mmendenh\Documents\Projects\installFonts\installFonts\bin\Release\installFonts.exe
+C:\Users\mmendenh\Documents\Projects\installFonts\installFonts\bin\Release\installFonts.pdb
+C:\Users\mmendenh\Documents\Projects\installFonts\installFonts\obj\Release\installFonts.csproj.CoreCompileInputs.cache
+C:\Users\mmendenh\Documents\Projects\installFonts\installFonts\obj\Release\installFonts.exe
+C:\Users\mmendenh\Documents\Projects\installFonts\installFonts\obj\Release\installFonts.pdb
+C:\Users\mmendenh\Documents\Projects\installFonts\installFonts\obj\Release\installFonts.csprojAssemblyReference.cache
